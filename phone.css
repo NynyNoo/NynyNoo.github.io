@@ -11,18 +11,18 @@ display: flex;
 
 position: relative;
 padding: 5px;
-width: 430px;
+width: 450px;
 height: 60.19px;
 background: #20B2AA;
 }
 #o2{
-width: 430px;
-height: 165px;
+width: 450px;
+height: 175px;
 background: #494949;
 }
 #o3{
 margin-left: auto; margin-right: auto;
-width: 430px;
+width: 450px;
 height: 27px;
 background-image: url("gora.png");
 left: 0px;
@@ -31,14 +31,14 @@ top: 21px;
 }
 #o4{
 margin-left: auto; margin-right: auto;
-width: 430px;
-height: 165px;
+width: 450px;
+height: 175px;
 left: 0px;
 top: 27px;
 background: #494949;
 }
 #o5{margin-left: auto; margin-right: auto;
-width: 430px;
+width: 450px;
 height: 27px;
 
 background: url(tt2.png);
@@ -46,8 +46,8 @@ top: 21px;
 }
 #o6{
 margin-left: auto; margin-right: auto;
-width: 430px;
-height: 425px;
+width: 450px;
+height: 445px;
 top: 509px;
 background: #F5F5F5
 }
@@ -55,9 +55,9 @@ background: #F5F5F5
 #o7{
 margin-left: auto;
  margin-right: auto;
-width: 430px;
+width: 450px;
 height: 66px;
-background: url(ob4.png);
+background: url(ob33.jpg);
 }
 
 #o8{
@@ -78,22 +78,22 @@ float:left;
 #o9{
 clear:both;
 margin-left: auto; margin-right: auto;
-width: 430px;
+width: 450px;
 height: 150px;
 background: #F5F5F5;
 }
 #o99{
-width: 430px;
+width: 450px;
 height: 160px;
 background: #F5F5F5;
 }
 #o999{
-width: 430px;
+width: 450px;
 height: 180px;
 background: #F5F5F5;
 }
 #o10{
-width: 430px;
+width: 450px;
 height: 20px;
 left: -1px;
 top: 828px;
