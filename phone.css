@@ -1,0 +1,267 @@
+a{
+text-decoration:none;
+}
+#android{
+width: 100%;
+height: auto;
+overflow: hidden;
+background: #494949;
+margin-left: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+margin-right: 0px;}
+
+
+
+#gora{
+display: flex;
+padding-top:2vh;
+padding-bottom:2vh;
+position: relative;
+width: 100vw;
+height: auto;
+background: #20B2AA;
+}
+#o2{
+width: 100vw;
+height: auto;
+background: #494949;
+padding-bottom:2vh;
+}
+#o3{
+margin-left: auto; margin-right: auto;
+width: 100vw;
+height: 8vw;
+background-image: url("gorat.jpg");
+}
+#o4{
+margin-left: auto; margin-right: auto;
+width: 100vw;
+height: auto;
+
+background: #494949;
+padding-bottom:2vh;
+}
+#o5{margin-left: auto; margin-right: auto;
+height: 8vw;
+background: url(kable.jpg);
+}
+#o6{
+margin-left: auto; margin-right: auto;
+width: 100vw;
+height: auto;
+top: 509px;
+background: #F5F5F5;
+padding-bottom:2vh;
+}
+
+#o7{
+margin-left: auto;
+ margin-right: auto;
+width: 100vw;
+
+height: 7vw;
+background: url(kabled.jpg);
+}
+
+#o8{
+padding-top:3vh;
+
+width: 100vw;
+height: auto;
+background: #494949;
+
+  
+}
+#o88{
+
+width: 100vw;
+height: auto;
+background: #494949;
+
+
+}
+#o888{
+
+
+width: 100vw;
+height: auto;
+background: #494949;
+
+
+}
+
+#o9{
+clear:both;
+padding-top:0.01vw;
+width: 100vw;
+height: auto;
+background: #F5F5F5;
+}
+#o99{
+width: 100vw;
+height: auto;
+background: #F5F5F5;
+}
+#o999{
+width: 100vw;
+height: auto;
+background: #F5F5F5;
+}
+#o10{
+width: 100vw;
+height: auto;
+background: #20B2AA;}
+
+
+#czarny{color:#4B4B4B;}
+
+
+#komputer{
+width:60vw;
+height:30vw;
+}
+
+#dron1{
+width:20vw;height:10vw;
+position: relative;
+left:-10vw;
+
+}
+
+
+
+
+
+
+
+
+#domek{
+position: relative;
+width:9vw;
+height:9vw;
+}
+
+#pyt{
+position: relative;
+
+width:9vw;
+height:9vw;
+}
+
+#news{
+position: relative;
+width:9vw;
+height:9vw;
+}
+
+#kontakt{
+position: relative;
+width:9vw;
+height:9vw;
+}
+#odsylacz2{
+position: relative;
+top: 17%;left: 15%;}
+#odsylacz3{
+position: relative;
+left: 20%;
+top: 17%;
+}
+#odsylacz4{
+position: relative;
+left: 25%;
+
+}
+#odsylacz5{
+position: relative;
+left: 31%;
+top: 17%;
+}
+
+
+
+.bc{
+position: relative;
+width: 75.05px;
+height: 17.96px;
+left: 5%;
+top: 5%;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 15.3942px;
+line-height: 18px;
+color: #FFFFFF;
+}
+
+.bd{
+position: relative;
+width: 31.75px;
+height: 6.73px;
+left: -3%;
+top: 50%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 5.77284px;
+line-height: 7px;
+color: #FFFFFF;}
+
+
+#srodek{
+width:30vw;height:6vw;
+position: relative;
+ text-align: center;
+left: 35%;
+background-color:#20B2AA;
+
+}
+#srodek2{
+padding:1vw;
+position: relative;
+Font-Family: Roboto;
+font-weight: Bold;
+font-size: 3vw;
+color:#FFFFFF;
+text-align: center;
+}
+
+#ev1{
+	width: 80vw;
+  height: 50vw;
+	
+	
+}
+#ev2{padding-top:3vh;
+padding-bottom:3vh;
+	width: 80vw;
+  height: 50vw;
+	
+	
+}
+
+
+
+
+
+
+
+.N1{
+Font-Family: Roboto;
+Font-Style: Bold;
+font-size: 380%;
+color:#E1E1E1;}
+
+.center {
+  text-align: center;
+}
+.N2{
+Font-Family: Roboto;
+font-size: 250%;
+color:#E1E1E1;}
+.N3{
+Font-Family: Roboto;
+font-size: 200%;
+color:#E1E1E1;}
